@@ -3,7 +3,7 @@
 //^ List
 //! List is a pre-defined interface present in java.util package
 //! List was introduced from jdk 1.2
-//! The implementation classes of the list interface are -
+//! The implementation classes of the list interface are --
 //& ArrayList
 //& vector
 //& Stack
