@@ -17,3 +17,6 @@
 //^ constructors present in the linked list class -
 //! LinkedList()
 //! LinkedList(Collection c)
+
+//^ The best operation
+//! Inserting and deleting in linked list is more suitable compared to array list
